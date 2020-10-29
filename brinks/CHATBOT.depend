@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1422959454 source:c:\users\user\desktop\code\voice.cpp
+	"voice.h"
+	<iostream>
+	<windows.h>
+
+1422960910 c:\users\user\desktop\code\voice.h
+	<iostream>
+
+1510251384 source:c:\users\user\desktop\anmolinnotech\code\learner.cpp
+	"learner.h"
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+
+1509882791 c:\users\user\desktop\anmolinnotech\code\learner.h
+	<iostream>
+	<fstream>
+	"voice.h"
+
+1422960910 c:\users\user\desktop\anmolinnotech\code\voice.h
+	<iostream>
+
+1509619640 source:c:\users\user\desktop\anmolinnotech\code\voice.cpp
+	"voice.h"
+	<iostream>
+	<windows.h>
+
+1510380380 source:c:\users\user\desktop\anmolinnotech\code\main.cpp
+	<stdlib.h>
+	<bits/stdc++.h>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+	<dos.h>
+	<iomanip>
+	<process.h>
+	"Voice.h"
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	"learner.h"
+	<conio.h>
+
+1509738759 source:c:\users\user\desktop\anmolinnotech\code\snake.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+
+1509739008 c:\users\user\desktop\anmolinnotech\code\snake.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+
+1509794389 source:c:\users\user\desktop\anmolinnotech\code\snake1.cpp
+	<conio.h>
+	<iostream>
+	<windows.h>
+	<vector>
+
+1510251384 source:c:\github\brinks\code\learner.cpp
+	"learner.h"
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+
+1509882791 c:\github\brinks\code\learner.h
+	<iostream>
+	<fstream>
+	"voice.h"
+
+1422960910 c:\github\brinks\code\voice.h
+	<iostream>
+
+1509619640 source:c:\github\brinks\code\voice.cpp
+	"voice.h"
+	<iostream>
+	<windows.h>
+
+1521285283 source:c:\github\brinks\code\main.cpp
+	<stdlib.h>
+	<bits/stdc++.h>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+	<dos.h>
+	<iomanip>
+	<process.h>
+	"Voice.h"
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	"learner.h"
+	<conio.h>
+
